@@ -1,5 +1,7 @@
 # DNF Coding Club
 
+![](img/tasks.png)
+
 As you might know, some people at the DNF are encouraging the use of new technologies for data analysis, visualisation and database scraping. With the support of the PIs, we are happy to announce the start of the DNF coding club that will provide the basics on daily research technologies such as bash, R, Jupyter and Shiny.
 
 The session is open to anyone with or without prior technical knowledge. These activities are designed to get familiar and used to these skills in a friendly and interactive environment. Only requirement is to bring your own laptop with wifi connection.
@@ -27,8 +29,9 @@ https://github.com/DNF-UNIL/Introduction_to_bioinformatics
 ## Credits
 
 Promoted and coordinated with :heart: by:
-Adrian Lo
-Carlos Vivar Rios
-Ludovic Telley
 
-Don't hesitate to contact us for any kind of suggestion or feedback or join us in this [slack channel](bio-info-dnf.slack.com)
+- Adrian Lo
+- Carlos Vivar Rios
+- Ludovic Telley
+
+Don't hesitate to contact us for any kind of suggestion or feedback or join us in this [slack channel](http://bio-info-dnf.slack.com)
